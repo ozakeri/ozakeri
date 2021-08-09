@@ -2,7 +2,9 @@
 
 ### My name is Omid
 
-### I am an Android Developer
+### welcome to my page
+
+### how can I help you?
 
 <!--
 **ozakeri/ozakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +23,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/ozakeri">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozakeri&show_icons=true&count_private=true&include_all_commits=true" /></a>
 <a href="https://github.com/ozakeri">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozakeri" &theme=dracula/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozakeri"/>
 </a>
