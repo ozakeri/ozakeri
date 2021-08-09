@@ -2,7 +2,7 @@
 
 ### My name is Omid
 
-### I am an Android ِDeveloper (Java and Kotlin) 
+### I am an Android Developer (Java and Kotlin) 
 
 <!--
 **ozakeri/ozakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/ghost1372">
+<a href="https://github.com/ozakeri">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozakeri&show_icons=true&count_private=true&include_all_commits=true" /></a>
