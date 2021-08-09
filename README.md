@@ -2,9 +2,9 @@
 
 ### My name is Omid
 
-### welcome to my page
+### Welcome to my page
 
-### how can I help you?
+### How can I help you?
 
 <!--
 **ozakeri/ozakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
