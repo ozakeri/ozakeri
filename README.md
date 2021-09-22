@@ -1,10 +1,6 @@
-### Hi my friends 👋
+### Omid Zakeri 👋
 
-### My name is Omid
-
-### Welcome to my page
-
-### How can I help you?
+### Senior Android Engineer
 
 <!--
 **ozakeri/ozakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
