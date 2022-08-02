@@ -1,6 +1,6 @@
 ### Omid Zakeri 👋
 
-### Senior Android Engineer
+### I am a graduate of software engineering and I have been working professionally in the field of Android programming for about 5 years, and I have designed and produced several applications in this field, and I have worked professionally with Android tools and parts. I am looking for progress and raising my level of expertise. I am interested in back-end programming.
 
 <!--
 **ozakeri/ozakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
